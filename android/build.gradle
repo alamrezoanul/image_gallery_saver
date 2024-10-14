@@ -1,4 +1,4 @@
-group 'com.example.imagegallerysaver'
+group 'com.FLUXIT.imagegallerysaver'
 version '1.0-SNAPSHOT'
 
 buildscript {
